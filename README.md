@@ -45,6 +45,7 @@ Remainder: `%`
 > n1 + 2;
 
 ```
+
 Compare:  `=`, `+=`, `++`
 
 ### Strings
