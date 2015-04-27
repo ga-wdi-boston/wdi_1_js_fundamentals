@@ -118,6 +118,11 @@ $ node scripts/count.js
 
 ```
 
+## Quiz
+
+Please follow the instructions at https://github.com/ga-wdi-boston/wdi_1_js_fundamentals_intro_quiz
+
+
 ## Additional Resources
 
 - https://en.wikipedia.org/wiki/Associative_array
