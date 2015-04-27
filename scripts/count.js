@@ -12,12 +12,4 @@ finibus. Pellentesque at arcu vel libero lacinia imperdiet nec sit amet \
 nisl. Ut commodo vulputate eros, sit amet aliquet mi aliquet a. Vivamus \
 ullamcorper mauris vitae condimentum volutpat.";
 
-var paragraphLength = paragraph.length;
-
-console.log("The paragraph is " + paragraphLength + " characters long.")
-
 var words = paragraph.split(/\s+/);
-
-console.log("The paragraph contains " + words.length + " words.")
-
-
