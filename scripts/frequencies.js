@@ -12,23 +12,6 @@ finibus. Pellentesque at arcu vel libero lacinia imperdiet nec sit amet \
 nisl. Ut commodo vulputate eros, sit amet aliquet mi aliquet a. Vivamus \
 ullamcorper mauris vitae condimentum volutpat.";
 
-
-console.log("The paragraph is " + paragraph.length + " characters long");
-
-var words = paragraph.split(/\s+/);
+var words = [];
 
 var wordFreq = {};
-
-console.log('"' + paragraph +'"');
-
-for (var i = 0; i < words.length; i++) {
-    var word = words[i].replace(/\W/g,'').toLowerCase();
-    if (!wordFreq[word]) {
-      wordFreq[word] = 0;
-    }
-      wordFreq[word]++;
-
-//    wordFreq[word] = (wordFreq[word] || 0) + 1;
-}
-
-console.log(wordFreq);
