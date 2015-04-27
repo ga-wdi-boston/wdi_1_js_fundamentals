@@ -120,7 +120,7 @@ $ node scripts/count.js
 
 ## Quiz
 
-Please follow the instructions at https://github.com/ga-wdi-boston/wdi_1_js_fundamentals_intro_quiz
+Please follow the instructions at https://github.com/ga-wdi-boston/wdi_1_js_fundamentals_quiz
 
 
 ## Additional Resources
