@@ -16,8 +16,6 @@ var words = paragraph.split(/\s+/);
 
 var wordFreq = {};
 
-console.log('"' + paragraph +'"');
-
 for (var i = 0; i < words.length; i++) {
     var word = words[i].replace(/\W/g,'').toLowerCase();
     if (!wordFreq[word]) {

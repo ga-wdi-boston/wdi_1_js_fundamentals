@@ -12,7 +12,6 @@ finibus. Pellentesque at arcu vel libero lacinia imperdiet nec sit amet \
 nisl. Ut commodo vulputate eros, sit amet aliquet mi aliquet a. Vivamus \
 ullamcorper mauris vitae condimentum volutpat.";
 
-
 var words = paragraph.split(/\s+/);
 
 var uniqueWords = { };
