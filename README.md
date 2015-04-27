@@ -40,13 +40,12 @@ Remainder: `%`
 
 ### Assignment
 
-Compare:  `=`, `+=`, `++`
-
 ```node
 > n1 = 2;
 > n1 + 2;
 
 ```
+Compare:  `=`, `+=`, `++`
 
 ### Strings
 
@@ -74,7 +73,7 @@ What do you think of when you here "truthy" and "falsy"?
 
 ```
 
-How would you check if a variable contained and odd number?
+How would you check if a variable contained an odd number?
 
 Note:  `!truthy === false` and `!falsy === true`
 
