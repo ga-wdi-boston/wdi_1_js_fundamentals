@@ -65,7 +65,7 @@ One or more non-word characters: `/\W+/`
 
 ### Boolean expressions
 
-What do you think of when you here "truthy" and "falsy"?
+What do you think of when you hear "truthy" and "falsy"?
 
 ```node
 > n1 === 1;
